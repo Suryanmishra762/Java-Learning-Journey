@@ -34,5 +34,6 @@ public class Vehicles {
         c1.brand = "BMW";
         c1.maxSpeed = 325;
         c1.printInfo();
+        System.out.println(c1.fuelType);
     }
 }
